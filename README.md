@@ -1,7 +1,7 @@
 # 1. Conversor De Moedas
 
 
-![imagem ilustrativa](https://drive.google.com/file/d/1b71FZJJoenaOdno8Li-mXFYordyzpY9W/view?usp=drive_link)
+![Image](https://github.com/user-attachments/assets/0ad7ab40-d6f2-4665-98c7-82391197f895)
 
 # Tecnologias usadas:
 
