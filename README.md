@@ -40,15 +40,6 @@ Durante o desenvolvimento deste projeto, aprendi sobre:
 1. Baixe ou clone o repositório.  
 2. Acesse a pasta principal do projeto.  
 3. Abra o arquivo `index.html` no navegador.  
-4. Ou acesse a versão online pelo GitHub Pages: [Clique aqui](#) *(adicione o link depois que publicar)*  
 
 ---
 
-## 👨‍💻 Autor
-**João Paulo**  
-Estudante de Front-End  
-[🔗 Meu GitHub](https://github.com/JoaoDev916)
-
----
-
-> *“Cada linha de código é um passo em direção a um futuro melhor.”*
