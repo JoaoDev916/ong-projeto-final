@@ -29,3 +29,7 @@ document.getElementById('formCadastro').addEventListener('submit', function (e) 
   this.reset();
 });
 
+const btn = document.querySelector('#botao-escuro');
+btn.addEventListener('click', () => {
+  document.body.classList.toggle('modo-escuro');
+});
